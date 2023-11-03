@@ -1,5 +1,3 @@
-#http://localhost:8501/
-
 import streamlit as st
 import pandas as pd
 from catboost import CatBoostClassifier
